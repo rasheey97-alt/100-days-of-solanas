@@ -227,22 +227,3 @@ Wallets, blockchain reading, transactions, accounts, token fundamentals.
 | Day | Challenge | Key Concept | Status |
 |-----|-----------|-------------|--------|
 | [Day 78](./day-78-anchor-audit/) | Audit your own code like an attacker | Owner checks + signer checks audited across the PDA counter; no escape hatches found; `UpdateProfile.authority` specimen flagged | ✅ Done |
-
----
-
-## DEV.to Articles
-
-| Day | Article |
-|-----|---------|
-| **Featured** | [🏆 GitHub Finish-Up-A-Thon Submission](https://dev.to/gopichand_dev/44-days-of-solana-from-an-empty-readme-to-a-live-nft-on-chain-my-finish-up-a-thon-story-fmg) |
-| Day 6 | [Your Public Key Is Your Identity](https://dev.to/gopichand_dev/your-public-key-is-your-identity-what-web2-devs-need-to-know-about-solana-4lpm) |
-| Day 13 | [Week 2: When the Public Database Finally Clicked](https://dev.to/gopichand_dev/week-2-on-solana-when-the-public-database-finally-clicked-273a) |
-| Day 20 | [Solana Transactions Explained for Backend Developers](https://dev.to/gopichand_dev/solana-transactions-explained-for-backend-developers-with-real-failures-2ido) |
-| Day 27 | [Solana's Account Model Explained for Web2 Developers](https://dev.to/gopichand_dev/solanas-account-model-explained-for-web2-developers-3d7o) |
-| Day 34 | [SPL Tokens Explained for Web2 Developers](https://dev.to/gopichand_dev/spl-tokens-explained-for-web2-developers-4jop) |
-| Day 41 | [5 Token Extension Combinations Explained](https://dev.to/gopichand_dev/5-token-extension-combinations-explained-5gib) |
-| Day 48 | [How I Put an NFT On-Chain with Token-2022](https://dev.to/gopichand_dev/how-i-put-an-nft-on-chain-with-token-2022-4e7e) |
-| Day 55 | [Three Token-2022 Mints: Fees, Yield, and Soul-Bound](https://dev.to/gopichand_dev/three-token-2022-mints-in-one-week-fees-yield-and-soul-bound-2b5k) |
-| Day 62 | [How I Built a Counter Program in Anchor](https://dev.to/gopichand_dev/how-i-built-a-counter-program-in-anchor-and-learned-to-trust-my-tests-4afi) |
-| Day 69 | [What I Learned About PDAs in a Week of Building on Solana](https://dev.to/gopichand_dev/what-i-learned-about-pdas-in-a-week-of-building-on-solana-4n9b) |
-| Day 76 | [CPI on Solana: The Mental Model I Wish I Had on Day 71](https://dev.to/gopichand_dev/cpi-on-solana-the-mental-model-i-wish-i-had-on-day-71-ceh) |
